@@ -20,4 +20,4 @@ Portfolio for professional development, centered around my python projects
   <p>
     Taking on the calendar story was a bit of a daunting task as a brand-new developer working on my first live project.  When I started there was not even a link in the drop down menu for the calendar so I knew everything I would be doing would be new for the site.
   <p />
-  ![Image of py-1](./images/py-1.png)
+  ![](images/py-1.png)
